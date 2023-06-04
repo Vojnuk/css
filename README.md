@@ -1,4 +1,4 @@
 # css
 
 
-Finished worksops from Josh Comeau course Css for JS developers
+Finished workshops from Josh Comeau course Css for JS developers
