@@ -1,0 +1,13 @@
+{
+  "alias": {},
+  "resolveExtensions": [
+    ".js",
+    ".jsx",
+    ".ts",
+    ".tsx",
+    ".vue",
+    ".scss",
+    ".less"
+  ],
+  "entryFilePath": "/home/aleksandar/Desktop/htdocs/development/vezbanje/css course/07-grid/new-grid-times/src/components/App/App.js"
+}
